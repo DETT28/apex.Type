@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
+
+body {
+    background-color: #171719;
+    color: #fefaf3;
+    font-family: 'JetBrains Mono', monospace;
+    transition: .2s;
+}
+
+.top-number-stats {
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+
+.row {
+    display: flex;
+
+}
